@@ -25,14 +25,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-<!--        &lt;!&ndash; https://mvnrepository.com/artifact/io.swagger.core.v3/swagger-maven-plugin &ndash;&gt;-->
-<!--        <dependency>-->
-<!--            <groupId>io.swagger.core.v3</groupId>-->
-<!--            <artifactId>swagger-maven-plugin</artifactId>-->
-<!--            <version>2.2.20</version>-->
-<!--        </dependency>-->
-
-        <!-- https://mvnrepository.com/artifact/org.springframework.security/spring-security-config -->
         <dependency>
             <groupId>org.springframework.security</groupId>
             <artifactId>spring-security-config</artifactId>
